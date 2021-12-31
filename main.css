@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+body{
+    background-color: black;
+}
+.card{
+    background-color: gray;
+    height: auto;
+}
+
+
+.none{
+    display: none;
+}
